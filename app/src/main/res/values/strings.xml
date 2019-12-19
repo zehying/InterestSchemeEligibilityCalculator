@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Interest Scheme Eligibility Calculator</string>
+    <string name="selectDOB">Select DOB :</string>
+    <string name="age">Age :</string>
+    <string name="minSaving">Min. Basic Saving</string>
+    <string name="investment">Investment :</string>
+    <string name="btn_Ok">Okay!</string>
+    <string name="btnReset">Reset</string>
+    <string name="date">Pick a date</string>
+</resources>
